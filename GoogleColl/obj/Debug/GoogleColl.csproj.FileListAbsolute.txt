@@ -1,0 +1,17 @@
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\GoogleColl.exe
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\GoogleColl.pdb
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.Base.dll
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.WebBrowser.dll
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.WebEngine.dll
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.Base.xml
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.WebBrowser.xml
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\bin\Debug\EO.WebEngine.xml
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.csprojAssemblyReference.cache
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.AddConfig.resources
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.MainForm.resources
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.Properties.Resources.resources
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.csproj.GenerateResource.cache
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.csproj.CoreCompileInputs.cache
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.csproj.CopyComplete
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.exe
+C:\Users\xudaojin\Downloads\google\GoogleCollGoogleColl\GoogleColl\obj\Debug\GoogleColl.pdb
